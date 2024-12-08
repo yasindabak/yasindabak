@@ -1,4 +1,4 @@
-
+[![MasterHead](https://cdn.pixabay.com/photo/2015/05/11/15/33/alligator-762624_1280.jpg)
 <h1 align="center">Hi 👋, I'm Yasin Dabak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
