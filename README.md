@@ -1,4 +1,5 @@
-[![MasterHead]([https://[image](https://github.com/user-attachments/assets/863ea27b-bff5-42f2-86f7-d8598255f0c7)
+![image](https://github.com/user-attachments/assets/1c24b639-0ee9-4ac1-9e10-d2008af6e794)
+
 
 <h1 align="center">Hi 👋, I'm Yasin Dabak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
