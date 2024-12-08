@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2015/05/11/15/33/alligator-762624_1280.jpg)
+[![MasterHead]([https://www.hypernet.com.tr/dimg/icerik/293732243425900284632.png![image](https://github.com/user-attachments/assets/863ea27b-bff5-42f2-86f7-d8598255f0c7)
+
 <h1 align="center">Hi 👋, I'm Yasin Dabak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
