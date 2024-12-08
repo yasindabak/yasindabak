@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/1c24b639-0ee9-4ac1-9e10-d2008af6e794)
-
+![image](https://github.com/user-attachments/assets/5a18940f-f605-4100-8194-e769ecd79895)
 
 <h1 align="center">Hi 👋, I'm Yasin Dabak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
