@@ -1,6 +1,12 @@
 ![image](https://github.com/user-attachments/assets/5a18940f-f605-4100-8194-e769ecd79895)
 
 <h1 align="center">Hi 👋, I'm Yasin Dabak</h1>
+<h1 align="center">I have been joyfully navigating the world of front-end development for about a year. My journey began with a deep interest in web technologies, and I continue to learn and improve myself every day. I started with the fundamentals of HTML, CSS, and JavaScript, and I have also developed an interest in modern frameworks like React and Vue.js. Bringing designs to life and creating user-friendly interfaces is not just a job for me but also a passion. I enjoy adding motion to projects through responsive designs and animations.
+
+In my personal projects, I always strive to experiment with new things. As a collaborative team player, I highly value knowledge sharing and finding creative solutions to challenges. I also believe that learning in the software world is an endless journey, which is why I make it a priority to stay up to date with new technologies and trends.
+
+My goal is to contribute to modern and impactful projects that prioritize user experience, adding value both to myself and my team. If we have the opportunity to meet, I would be thrilled to bring my energy and motivation to your projects.</h1>
+
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Vue.js**
