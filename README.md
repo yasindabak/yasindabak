@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Vue.js**
+- 🔭 I’m currently working on **React.js**
 
 - 📫 How to reach me **ydabak3@gmail.com**
 
