@@ -20,4 +20,4 @@
 
 ### Watch snake eating my contirbutions:
 
-![snake gif](https://github.com/yasindabak/yasindabak/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yasindabak/yasindabak/blob/output/github-contribution-grid-snake-dark.svg)
