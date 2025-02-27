@@ -1,7 +1,10 @@
 ###
 <p align="center">
-  <img height="230" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZmMXVzajM1emJhcTJjaXRlOTRrOGlmcW5zMHpvZGtqcmNhNGhhYSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" />
+  <img height="300" width="1000"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZmMXVzajM1emJhcTJjaXRlOTRrOGlmcW5zMHpvZGtqcmNhNGhhYSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" />
 </p>
+
+---
 
 # 💫 About Me:
 🔭 Currently working on **React.js**.  
