@@ -112,9 +112,10 @@ I enjoy experimenting with new ideas in my personal projects and focus on creati
 </br>
 
 </br>
+---
 
 ### 🐍 Watch the snake eat my contributions:
-<div>
+<div align="center">
 <p align="center">
   <img src="https://github.com/yasindabak/yasindabak/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
