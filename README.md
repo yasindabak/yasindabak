@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yasin, full-stack developer 👨‍💻 İn Türkiye/Mersin 🚀</div>  
+### <div align="center">I'm Yasin, full-stack developer 👨‍💻 İn Türkiye/Mersin. 🚀</div>  
   
 
 - 🌱 I’m currently learning MERN Stack  
