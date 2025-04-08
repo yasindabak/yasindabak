@@ -6,10 +6,10 @@
 ### <div align="center">I'm Yasin, full-stack developer 👨‍💻 İn Türkiye/Mersin. 🚀</div>  
   
 
-- 🌱 I’m currently learning MERN Stack  
+- 🌱 I’m currently learning MERN Stack.
   
 
-- ❓ Ask me about anything   
+- ❓ Ask me about anything.
   
 
 - ⚡Summary :
