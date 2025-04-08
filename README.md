@@ -95,22 +95,7 @@ I enjoy experimenting with new ideas in my personal projects and focus on creati
 
 
 </div>
-  
-</br>
 
-  
-</br>
-
-</br>
-
-
-</br>
-
-
-</br>
-
-</br>
-</br>
 </br>
 
 </br>
