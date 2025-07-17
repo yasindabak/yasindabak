@@ -36,7 +36,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindabak&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasindabak&theme=dark" alt="GitHub Streak" />
 
 ## Watch the snake eat my contributions 🐍:
 
