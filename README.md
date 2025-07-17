@@ -29,18 +29,22 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/yasindabak/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/yasindabakk" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yasindabak&show_icons=true&locale=en" alt="yasindabak" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasindabak&" alt="yasindabak" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasindabak&show_icons=true&locale=en&layout=compact" alt="yasindabak" /></p>
 
+## GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=yasindabak&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-### 🐍 Watch the snake eat my contributions:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindabak&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasindabak&theme=dark" alt="GitHub Streak" />
+
+## Watch the snake eat my contributions 🐍:
+
 <div align="center">
 <p align="center">
   <img src="https://github.com/yasindabak/yasindabak/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 </div>
 
-</br>
+
 
