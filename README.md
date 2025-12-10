@@ -30,13 +30,6 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/yasindabak" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/yasindabakk" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=yasindabak&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindabak&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-
-
 ## Watch the snake eat my contributions 🐍:
 
 <div align="center">
